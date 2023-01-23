@@ -1,0 +1,18 @@
+.bz-light-red{
+    background-color: rgba(116, 22, 22, 0.762);
+}
+.rating-star{
+    width: 20px;
+}
+.btn-bz-danger{
+    background-color: rgba(218, 52, 230, 0.87);
+    color: white;
+}
+.btn-text-color{
+    color: #FFFFFF;
+    border: 1px solid white;
+    border-radius: 10px;
+}
+.apple-icon{
+    width: 25px;
+}
